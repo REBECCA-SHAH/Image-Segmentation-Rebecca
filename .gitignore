@@ -1,0 +1,6 @@
+img_seg_env/
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.pdb
